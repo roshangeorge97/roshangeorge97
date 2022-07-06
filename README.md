@@ -1,4 +1,4 @@
-### Hi there, I'm [Audhi Aprilliant][website] 👋
+### Hi there, I'm [Roshan George][website] 👋
 
 ## I'm a Man, Friend, and Researcher!
 - 🔭 I’m currently working on a [personal project][website]!
