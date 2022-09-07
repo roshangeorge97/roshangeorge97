@@ -2,15 +2,15 @@
 
 ## I'm a Man, Friend, and Researcher!
 - 🔭 I’m currently working on a [personal project][website]!
-- 🌱 I’m currently learning web development and web3
+- 🌱 I’m currently learning blockchain and web3
 - 👯 I’m looking to collaborate with other web devs out there
-- 🥅 2022 Goals: Give impact to society
+- 🥅 2022 Goals: Finish learning concepts of DSA
 - ⚡ Fun fact: I love blogging, reading books, and web designing
 
 ### Connect with me:
 
 [<img align="left" alt="roshangeorge97.github.io/portfolio/" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="roshangeorge | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" href="https://twitter.com/dev_roshangeorg" alt="roshangeorge | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="roshangeorge | Code Chef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
 [<img align="left" alt="roshangeorge | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
