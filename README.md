@@ -3,7 +3,7 @@
 ## I'm a Man, Teacher, and Developer!
 - 🔭 I’m currently working on a [personal project][website]!
 - 🌱 I’m currently learning blockchain and web3
-- 👯 I’m looking to collaborate with other web devs out there
+- 👯 I’m looking to collaborate with other devs out there
 - 🥅 2022 Goals: Finish learning concepts of DSA
 - ⚡ Fun fact: I love problem solving, debugging, and web designing
 
