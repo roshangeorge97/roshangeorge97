@@ -38,9 +38,8 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 ---
 
-### 📚 Latest Medium Story
-<!-- MEDIUM-STORY-LIST:START -->
-<!-- MEDIUM-STORY-LIST:END -->
+### 🚀 Achievements
+[![@roshangeorge's Holopin board](https://holopin.me/roshangeorge)](https://holopin.io/@roshangeorge)
 
 ---
 
