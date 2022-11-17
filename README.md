@@ -1,6 +1,6 @@
 ### Hi there, I'm [Roshan George][website] 👋
 
-## I'm a Man, Teacher, and Developer!
+## I'm a Man, Student, and Developer!
 - 🔭 I’m currently working on a [personal project][website]!
 - 🌱 I’m currently learning blockchain and web3
 - 👯 I’m looking to collaborate with other devs out there
