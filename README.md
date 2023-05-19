@@ -12,15 +12,12 @@
 ![](https://media.giphy.com/media/96Xaju9KRM4ne/giphy.gif)
     
 
-<details>
-    <summary><b>My Stats 📊</b></summary>
+## My Stats 📊
   
 <img src="https://github-readme-stats.vercel.app/api?username=roshangeorge97&show_icons=true&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshangeorge97&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshangeorge97&layout=compact&theme=dark"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshangeorge97&theme=dark"/>
-</details>
-
 
 
 ## Languages I Use 🔍
