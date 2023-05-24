@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Rust, Go, R
 - 💬 Ask me about dev, AI, web3
 - 📫 How to reach me: roshangeorge2003@gmail.com
-- ⚡ Fun fact: I love froggies 🐸
+- ⚡ Fun fact: I love dogos!!!
 
 ---
 
