@@ -1,4 +1,4 @@
-## Hello, I'm Roshan George! 👋
+## Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Roshan George!
 
 - 🔭 I’m currently working on Edunity
 - 🌱 I’m currently learning Rust, Go, R
