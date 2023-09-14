@@ -1,13 +1,17 @@
 ## Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Roshan George!
 
-- 🔭 I’m currently working on Edunity
-- 🌱 I’m currently learning Rust, Go, R
-- 💬 Ask me about dev, AI, web3
+- 🌱 I’m currently mastering DSA✨
+- 💬 Ask me about open-source, AI, web3..(even anything personalXD) ->
 - 📫 How to reach me: roshangeorge2003@gmail.com
-- ⚡ Fun fact: I love dogos!!!
+
+
+## Lets Connect 🤗
+[<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/LinkedIN.svg"/>](https://www.linkedin.com/in/roshangeorge97/)
+[<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Twitter.svg"/>](https://twitter.com/dev_roshangeorg)
+[<img src="https://github.com/gauravghongde/social-icons/blob/master/SVG/Color/Medium.svg"/>](https://medium.com/@roshangeorge97)
+
 
 ---
-
 
 ![](https://media.giphy.com/media/96Xaju9KRM4ne/giphy.gif)
     
