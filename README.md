@@ -20,9 +20,9 @@
   
 <img src="https://github-readme-stats.vercel.app/api?username=roshangeorge97&show_icons=true&theme=dark"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshangeorge97&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=roshangeorge97&layout=compact&theme=dark"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=roshangeorge97&theme=dark"/>
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/roshangeorge2003?theme=wtf&font=Changa&ext=heatmap)
 
 ## Languages I Use 🔍
 
