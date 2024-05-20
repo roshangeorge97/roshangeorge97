@@ -1,6 +1,6 @@
 ## Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Roshan George!
 
-- 🌱 I’m currently mastering DSA✨
+- 🌱 I write code(most of the tym)✨
 - 💬 Ask me about open-source, AI, web3..(even anything personalXD) ->
 - 📫 How to reach me: roshangeorge2003@gmail.com
 
