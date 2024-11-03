@@ -1,7 +1,6 @@
 ## Hello<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Roshan George!
 
 - 🌱 Hey there! Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.
-- 💬 Ask me about open-source, AI, web3..(even anything personalXD) ->
 - 📫 How to reach me: roshangeorge2003@gmail.com
 
 
